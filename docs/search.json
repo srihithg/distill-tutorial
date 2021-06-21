@@ -3,10 +3,9 @@
     {
       "path": "about.html",
       "title": "About this site",
-      "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T15:36:49-05:00"
+      "contents": "\r\nAbout Me\r\nHello, my name is Srihith Garlapati and I am from Fremd High School.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T16:25:06-05:00"
     },
     {
       "path": "index.html",

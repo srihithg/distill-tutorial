@@ -7,4 +7,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ## About Me
-Hello, my name is __Srihith Garlapati__ and I am from Fremd High School.
+Hello, my name is **Srihith Garlapati** and I am from Fremd High School.
+
+## About the Project
+My project, *Cars and Their Mileage* will be comparing the weights of cars with their mileage.  
+
+### Goals
+* see which is the best car to buy weight wise and mileage wise
+
+* see which is the worst car to buy weight wise and mileage wise
+
+  + but it will be hard to show this goal
+  
+"This is data science"  ~ Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
